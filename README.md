@@ -71,6 +71,9 @@ HELLO WORLD
 # 이미지
 ![커륑스털~밤하늘의 퍼얼](./road-4055838_1280.jpg)
 
+---
+
+<img src="./road-4055838_1280.jpg" width="300" height="200" alt="" />
 
 # 인용문
 > HELLO WORLD
