@@ -69,7 +69,7 @@ HELLO WORLD
 <a href="https://www.figma.com/design/2h10JGfZDbdccfDyYNIMw3/%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84?node-id=0-1&p=f&t=8C2FnW3q2AOkTj1Q-0" target="_blank"> 새탭 열고 이동</a> 
 
 # 이미지
-![커륑스털~밤하늘의 퍼얼](./test.jpg)
+![커륑스털~밤하늘의 퍼얼](./road-4055838_1280.jpg)
 
 
 # 인용문
